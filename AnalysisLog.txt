@@ -1,0 +1,120 @@
+The file size is: 10 MB
+Upload Speed: 0.609948 MB/s
+Download Speed: 2.347531 MB/s
+Upload time: 16.394841 s
+Download time: 4.259795 s
+
+The file size is: 20 MB
+Upload Speed: 1.190604 MB/s
+Download Speed: 3.387817 MB/s
+Upload time: 16.798200 s
+Download time: 5.903506 s
+
+The file size is: 30 MB
+Upload Speed: 1.235112 MB/s
+Download Speed: 3.691985 MB/s
+Upload time: 24.289296 s
+Download time: 8.125710 s
+
+The file size is: 40 MB
+Upload Speed: 1.227643 MB/s
+Download Speed: 3.898622 MB/s
+Upload time: 32.582760 s
+Download time: 10.260034 s
+
+The file size is: 50 MB
+Upload Speed: 1.217830 MB/s
+Download Speed: 4.215005 MB/s
+Upload time: 41.056644 s
+Download time: 11.862382 s
+
+The file size is: 60 MB
+Upload Speed: 1.137596 MB/s
+Download Speed: 4.359264 MB/s
+Upload time: 52.742790 s
+Download time: 13.763792 s
+
+The file size is: 70 MB
+Upload Speed: 1.260572 MB/s
+Download Speed: 4.479456 MB/s
+Upload time: 55.530327 s
+Download time: 15.626898 s
+
+The file size is: 80 MB
+Upload Speed: 1.233284 MB/s
+Download Speed: 4.554783 MB/s
+Upload time: 64.867480 s
+Download time: 17.563954 s
+
+The file size is: 90 MB
+Upload Speed: 1.234194 MB/s
+Download Speed: 4.622777 MB/s
+Upload time: 72.922111 s
+Download time: 19.468816 s
+
+The file size is: 100 MB
+Upload Speed: 1.204663 MB/s
+Download Speed: 4.684120 MB/s
+Upload time: 83.010776 s
+Download time: 21.348726 s
+
+The file size is: 100 MB
+Upload Speed: 1.195725 MB/s
+Download Speed: 3.896812 MB/s
+Upload time: 83.631285 s
+Download time: 25.662004 s
+/n
+The file size is: 200 MB
+Upload Speed: 1.234455 MB/s
+Download Speed: 4.617184 MB/s
+Upload time: 162.014751 s
+Download time: 43.316441 s
+/n
+The file size is: 300 MB
+Upload Speed: 1.237150 MB/s
+Download Speed: 3.981462 MB/s
+Upload time: 242.492860 s
+Download time: 75.349207 s
+/n
+The file size is: 400 MB
+Upload Speed: 1.201219 MB/s
+Download Speed: 4.621414 MB/s
+Upload time: 332.995093 s
+Download time: 86.553590 s
+/n
+The file size is: 500 MB
+Upload Speed: 1.171914 MB/s
+Download Speed: 4.689892 MB/s
+Upload time: 426.652353 s
+Download time: 106.612271 s
+/n
+The file size is: 600 MB
+Upload Speed: 1.197895 MB/s
+Download Speed: 4.847212 MB/s
+Upload time: 500.878632 s
+Download time: 123.782508 s
+/n
+The file size is: 700 MB
+Upload Speed: 0.828439 MB/s
+Download Speed: 4.942136 MB/s
+Upload time: 844.962460 s
+Download time: 141.639161 s
+/n
+The file size is: 800 MB
+Upload Speed: 0.678958 MB/s
+Download Speed: 4.942322 MB/s
+Upload time: 1178.276115 s
+Download time: 161.867230 s
+/n
+The file size is: 900 MB
+Upload Speed: 1.122850 MB/s
+Download Speed: 4.927872 MB/s
+Upload time: 801.531888 s
+Download time: 182.634612 s
+/n
+The file size is: 1000 MB
+Upload Speed: 1.125870 MB/s
+Download Speed: 5.025251 MB/s
+Upload time: 888.201791 s
+Download time: 198.995026 s
+/n
